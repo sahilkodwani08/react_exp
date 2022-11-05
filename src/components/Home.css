@@ -1,0 +1,13 @@
+#course {
+    margin-top: 100px;
+
+    margin-left: 700px;
+
+}
+
+div{
+
+    align-content:'stretch';
+    flex-wrap: wrap;
+}
+
